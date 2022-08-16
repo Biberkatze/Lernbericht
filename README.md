@@ -1,24 +1,18 @@
 # Lernbericht
 
-# Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
-
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In dem Projekt ging es darum in War Thunder besser zu werden.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe gelern, wie man in War Thunder mit Bomben von der AR 234 C-3 umgeht und mehr Kills macht.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Ich Spielte SRE (Squadron Realistic Events), Wobei 2 Squadrons gegeneinander spielen. Ich habe Bomben auf die gegner fallen lassen, während die AA (Anti-Aircraft) sich um gegnerische Flugzeuge gekümmert hat und die Panzer die Zonen erobert haben.
+https://www.youtube.com/watch?v=gyoJgHA7F9A&t=5s
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
