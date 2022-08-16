@@ -15,13 +15,9 @@ https://www.youtube.com/watch?v=gyoJgHA7F9A&t=5s
 
 
 ## Verifikation
-
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
-
+In dem YouTube Video kann man sehen, wie ich mit meinem Squad gegen den 4. besten Squad spiele und wir gegen diese gewinnen. Ich habe während dieser Zeit gelernt, wie man die Bomben genau auf die Ziele trifft, vorallem wenn sie sich bewegen.
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Das Training lief gut und ich traf meine Bomben. Was nicht so gut ist, dass ich relativ viel Zeit darein stecken musste, bis ich es gelernt habe.
 
-👎 und etwas, was nicht gut lief.
-
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Ich versucht nicht so viel mist zu machen, wenn ich mich verbessern will.
